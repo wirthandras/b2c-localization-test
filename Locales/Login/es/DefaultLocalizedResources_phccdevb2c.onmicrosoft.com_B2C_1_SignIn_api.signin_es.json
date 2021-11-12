@@ -1,0 +1,18 @@
+{
+  "LocalizedStrings": [
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "DisplayName",
+      "Override": false,
+      "Value": "Nombre de usuario"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "PatternHelpText",
+      "Override": false,
+      "Value": "El nombre de usuario que ha proporcionado no es válido."
+    }
+  ]
+}

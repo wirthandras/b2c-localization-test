@@ -1,0 +1,18 @@
+{
+  "LocalizedStrings": [
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "DisplayName",
+      "Override": true,
+      "Value": "Consultant ID, username or verified email"
+    },
+    {
+      "ElementType": "ClaimType",
+      "ElementId": "UserId",
+      "StringId": "PatternHelpText",
+      "Override": false,
+      "Value": "The username you have provided is not valid."
+    }
+  ]
+}
